@@ -18,6 +18,8 @@ public class Test{
         myThread2.start();
 
     }
-
+    public void funcitonNew(){
+        System.out.println("Minh dep trai vl");
+    }
 
 }
